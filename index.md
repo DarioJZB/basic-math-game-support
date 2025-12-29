@@ -4,7 +4,7 @@
 
 For questions, feedback, or support, email us at:
 
-**[your-email@example.com]**
+**[juicegames87@gmail.com]**
 
 We typically respond within 24-48 hours.
 
@@ -32,16 +32,3 @@ Basic Math Game was created by a math teacher with over 10 years of classroom ex
 © 2025 Juice Games
 ```
 
-4. Click **Commit new file**
-
-### Step 3: Enable GitHub Pages
-
-1. Go to **Settings** (in your new repo)
-2. Click **Pages** (left sidebar)
-3. Under "Source", select **main** branch
-4. Click **Save**
-5. Wait 1-2 minutes
-
-Your support URL will be:
-```
-https://dariojzb.github.io/basic-math-game-support/
