@@ -30,7 +30,7 @@ The app is provided "as is" without warranties of any kind. We are not responsib
 
 ### Contact
 
-For questions about these terms, contact us at: [your-email@example.com]
+For questions about these terms, contact us at: [juicegames87@gmail.com]
 
 ### Changes
 
