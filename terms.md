@@ -1,6 +1,6 @@
 # Terms of Use
 
-**Last Updated: December 29, 2024**
+**Last Updated: December 29, 2025**
 
 ## Basic Math Game Terms of Use
 
